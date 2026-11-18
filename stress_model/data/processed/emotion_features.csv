@@ -1,0 +1,2 @@
+image_name,face_number,predicted_emotion,detection_confidence,face_width_ratio,face_height_ratio,face_area_ratio,angry_probability,disgust_probability,fearful_probability,happy_probability,neutral_probability,sad_probability,surprised_probability
+test_face.jpg,0,surprised,0.7005302906036377,0.11795961856842041,0.08919433504343033,0.010521329939365387,0.17197102296485076,0.001405955238676853,0.17786620024896976,0.01568306980421504,0.004431145238369224,0.06016541549403362,0.5684771910108848
